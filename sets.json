@@ -1,5 +1,5 @@
-{
+sets:[{
 "pokemon1":{"name":"pikachu","def_evs":252,"hp_evs":252,"base_def":40,"base_hp":35,"def_iv":31,"hp_iv":31,"level":100,"item":"eviolite","type1":"electric","type2":"none","num_of_types":1},
 "pokemon2":{"name":"wartortle","def_evs":252,"hp_evs":252,"base_def":80,"base_hp":59,"def_iv":31,"hp_iv":31,"level":100,"item":"eviolite","type1":"water","type2":"none","num_of_types":1},
 "pokemon3":{"name":"shelgon","def_evs":252,"hp_evs":252,"base_def":100,"base_hp":65,"def_iv":31,"hp_iv":31,"level":100,"item":"eviolite","type1":"dragon","type2":"none","num_of_types":1}
-}
+}]
